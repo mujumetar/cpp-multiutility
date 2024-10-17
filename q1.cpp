@@ -2,10 +2,7 @@
 using namespace std;
 
 int main(){
-
-
     float f, c;
- 
     cout << "Enter the temperature in Celsius : ";
     cin >> c;
     cout << endl;
